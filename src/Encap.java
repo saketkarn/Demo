@@ -30,6 +30,7 @@ class Student{
 public class Encap {
     public static void main(String[] args){
         Student obj=new Student();
+        System.out.println("Learning Encapsulation :- ");
         obj.setCity("Patna");
         obj.setRoll(1);
         obj.setName("Saket");
